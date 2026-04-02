@@ -1,8 +1,5 @@
 ╔══════════════════════════════════════════════════════════════╗
-║         ROOT FINDING CALCULATOR APP                         ║
-║         Chandigarh University — BE CSE/IT (3rd Year)        ║
-║         Subject : Numerical Methods  (23SMH-341)            ║
-║         Project : Sr. No. 3                                 ║
+║         ROOT FINDING CALCULATOR APP                          ║
 ╚══════════════════════════════════════════════════════════════╝
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
