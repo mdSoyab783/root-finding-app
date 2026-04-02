@@ -1,9 +1,6 @@
 """
 ╔══════════════════════════════════════════════════════════════╗
-║   ROOT FINDING CALCULATOR  v5.0  — DARK GOLD THEME          ║
-║   Chandigarh University · BE CSE/IT (3rd Year)              ║
-║   Subject : Numerical Methods (23SMH-341)  · Project #3     ║
-║   Features: Animations · Responsive · Attractive UI         ║
+║   ROOT FINDING CALCULATOR                                    ║
 ╚══════════════════════════════════════════════════════════════╝
 """
 
